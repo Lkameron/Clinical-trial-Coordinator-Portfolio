@@ -4,7 +4,6 @@ A working Excel tracker showing how a Clinical Trial Coordinator could manage es
 
 > **All data is fictional.** The study (DEMO-001), sites, people and figures are invented. There is no real trial, site or patient information in this repository.
 
-![Dashboard](images/dashboard.png)
 
 ## Why I built this
 
