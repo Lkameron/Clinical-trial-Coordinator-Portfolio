@@ -4,6 +4,7 @@ A working Excel tracker showing how a Clinical Trial Coordinator could manage es
 
 > **All data is fictional.** The study (DEMO-001), sites, people and figures are invented. There is no real trial, site or patient information in this repository.
 
+![Dashboard](dashboard.png)
 
 ## Why I built this
 
@@ -52,8 +53,8 @@ Blue text is typed input. Black text is a formula.
 
 ## Extras
 
-- `scripts/expiry_report.R` reads the Documents tab and prints expired and expiring documents by site.
-- `planning/` holds the Gantt chart for my systematic review. <!-- Add your Gantt chart file here, or delete this line. -->
+- `expiry_report.R` reads the Documents tab and prints expired and expiring documents by site.
+- ![Gantt chart](gantt.png) holds the Gantt chart for my systematic review. 
 
 ## How this was made
 
@@ -61,4 +62,6 @@ I built the first version with help from an AI assistant (Claude), then reviewed
 
 ## Contact
 
-<!-- Your name and LinkedIn link -->
+Email: LeinaKameron.career@gmail.com
+Tel: 07484339294 
+LinkedIn: linkedin.com/in/leina-kameron
