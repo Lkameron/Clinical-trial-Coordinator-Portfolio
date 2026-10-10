@@ -8,8 +8,9 @@ A working Excel tracker showing how a Clinical Trial Coordinator could manage es
 
 ## Why I built this
 
-<!-- Rewrite this paragraph in your own words. -->
-I am moving from research and regulated financial services into clinical trial operations. I built this to practise the core of the coordinator role: keeping accurate, audit-ready records and making sure nothing is missed before a site opens.
+Across my research projects, the science was rarely what put a deadline at risk. It was a late delivery, an unanswered email or a document nobody had chased. Working under anti-money-laundering procedures in currency exchange taught me the other half: a record only counts if it is accurate, complete and can be checked later.
+
+Clinical trial coordination brings those two things together, so I built this tracker to learn the work by doing it. I wanted to understand what has to be in place before a hospital site can open, what can quietly hold it up, and how a coordinator would spot the problem early enough to act.
 
 ## What is in the workbook
 
@@ -64,4 +65,4 @@ I built the first version with help from an AI assistant (Claude), then reviewed
 
 Email: LeinaKameron.career@gmail.com
 Tel: 07484339294 
-LinkedIn: linkedin.com/in/leina-kameron
+Leina Kameron | [LinkedIn](https://www.linkedin.com/in/leina-kameron)
